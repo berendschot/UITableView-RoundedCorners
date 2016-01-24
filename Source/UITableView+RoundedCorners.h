@@ -9,6 +9,7 @@
 
 @interface UITableView (RoundedCorners)
 
+- (void)addSeperator:(BOOL)addSeperator;
 - (void)displayCell:(UITableViewCell *)cell withRoundedCornersAtIndexPath:(NSIndexPath *)indexPath;
 
 @end
