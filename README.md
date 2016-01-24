@@ -11,9 +11,6 @@ Add rounded corners to UITableView sections.
 }
 ```
 
-#### Version
-0.1
-
 License
 ----
 
