@@ -14,9 +14,6 @@ Add rounded corners to UITableView sections.
 #### Version
 0.1
 
-### Todos
- - Rounded corners on cells with variable widths.
-
 License
 ----
 
